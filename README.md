@@ -1,6 +1,6 @@
 # ✈️ Flight Price Prediction using Machine Learning
-## Leaderboard Rank: 78th  / 978 teams (Top 8%)
-## RMSE Score ~3290 and R² Score ~0.980
+## Kaggle Competition Leaderboard: 78th  / 978 teams (Top 8%)
+
  ### Introduction
 This project focuses on predicting flight ticket prices using machine learning techniques. The dataset contains information related to airline, class, number of stops, departure and arrival times, source and destination, duration, and the number of days left for departure.
 
